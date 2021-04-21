@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LEO2122
 - 👀 I’m interested in Devloping
-- 🌱 I’m currently learning Html and css
+- 🌱 I’m currently learning Html, Css and Java/JavaScript
 - 💞️ I’m looking to collaborate on nothing eheh
 - 📫 How to reach me go on my french discord server: https://discord.gg/haDAfF yes im fr
 
