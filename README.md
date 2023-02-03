@@ -4,7 +4,15 @@
 - 🖥️ Computer and programing
 - 🐈 Cat & dog
 
-##
-| Language | JavScript | CSharp | Python |
+## What i know:
+| Language | JavaScript | CSharp | Python |
 |--|--|--|--|
-| How good | Intermidiate | Good | Good |
+| How good | Intermediate | Good | Good |
+
+## My project
+
+### Rubys
+- A free-forever Discord bot All-in-One bot
+### Tozer 
+- A free-forever game studio*
+---*if the game need money to run (like multiplayer you might need to pay)
