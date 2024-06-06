@@ -1,16 +1,20 @@
 # Hi, I'm Altep
 
 ## What i love after all is:
-- 🖥️ Computer and programing
+- 🖥️ Computer and programming
 - 🐈 Cat & dog
 
 ## What i know:
-| Language | JavaScript | CSharp | Python |
-|--|--|--|--|
-| How good | Intermediate | Bad | Bad |
+| Subject | Level | 
+|--|--|
+| JS & TS | Still learning |
+| C++ | Starting to learn |
+| C# | Don't wanna bother with Unity|
+| Python | Not interested for now |
 
-## My project
+## My projects
 
-### Rubys
-- A All-in-One discord bot 
+### Loox
+- An organization about webapps and software to replace current money greedy one's
+- LooxOS: An OS all about you
 
