@@ -9,7 +9,7 @@
 |--|--|
 | JS & TS | Still learning |
 | C++ | Starting to learn |
-| C# | Don't wanna bother with Unity|
+| C# | Its fine, but meh...|
 | Python | Not interested for now |
 
 ## My projects
