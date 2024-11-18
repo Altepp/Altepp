@@ -15,6 +15,7 @@
 ## My projects
 
 ### Loox
-- An organization about webapps and software to replace current money greedy one's
-- LooxOS: An OS all about you
+- A Project, not influenced by shareholders and greedyness
+  - Yodel: A discord-like clone
+  - LooxOS: An OS all about customization
 
